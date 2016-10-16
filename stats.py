@@ -1,7 +1,3 @@
-import statistics
-from collections import Counter
-from itertools import groupby
-
 lst = input("What's the list?\n")
 lst = lst.replace(",", "")
 lst = lst.replace(" ", ", ")
